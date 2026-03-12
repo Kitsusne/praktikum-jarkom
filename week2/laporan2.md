@@ -10,14 +10,14 @@ Mempelajari protokol yang sedang berjalan
 - Membuka link: http://gaia.cs.umass.edu/wireshark-labs/HTTPwireshark-file1.html
 ![](../assets/image/week2.1.1.png)
 - Dapat dilihat pada log wireshark ada proses get dan terdapat pesan "ok" menunjukkan telah berhasil membuka website
-1[](../assets/image/week2.1.2.png)
+![](../assets/image/week2.1.2.png)
 
 2. HTTP CONDITIONAL GET/response interaction
 - Membuka browser
 - Membuka link: http://gaia.cs.umass.edu/wireshark-labs/HTTPwireshark-file2.html
 ![](../assets/image/week2.2.1.png)
 - Dapat dilihat pada log wireshark ada proses get dan terdapat pesan "not modified" menunjukkan browser masih menyimpan cache sehingga tidak perlu ada yang dikirim ke client
-1[](../assets/image/week2.2.2.png)
+![](../assets/image/week2.2.2.png)
 
 3. Retrieving Long Documents
 - Membuka browser
