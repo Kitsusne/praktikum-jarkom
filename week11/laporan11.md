@@ -15,7 +15,7 @@ Praktikum ini dilakukan menggunakan file trace DHCP dengan format `.pcapng` pada
 
 ## 1. Release IP Address
 
-![Screenshot Release IP Address](../assets/week11/SS2_release.png)
+![Screenshot Release IP Address](../assets/image/week11/SS2_release.png)
 
 Perintah yang digunakan:
 
@@ -31,7 +31,7 @@ Perintah `ipconfig /release` digunakan untuk melepaskan alamat IP yang sedang di
 
 ## 2. Renew IP Address
 
-![Screenshot Renew IP Address](../assets/week11/SS5_renew.png)
+![Screenshot Renew IP Address](../assets/image/week11/SS5_renew.png)
 
 Perintah yang digunakan:
 
@@ -47,7 +47,7 @@ Perintah `ipconfig /renew` digunakan untuk meminta alamat IP baru kepada DHCP se
 
 ## 3. Filter Paket DHCP pada Wireshark
 
-![Screenshot Filter DHCP](../assets/week11/SS6_filter_dhcp.png)
+![Screenshot Filter DHCP](../assets/image/week11/SS6_filter_dhcp.png)
 
 Filter yang digunakan:
 
@@ -70,7 +70,7 @@ Paket yang muncul:
 
 ## 4. DHCP Discover
 
-![Screenshot DHCP Discover](../assets/week11/SS7_discover.png)
+![Screenshot DHCP Discover](../assets/image/week11/SS7_discover.png)
 
 Penjelasan:
 
@@ -85,7 +85,7 @@ Fungsi:
 
 ## 5. DHCP Offer
 
-![Screenshot DHCP Offer](../assets/week11/SS8_offer.png)
+![Screenshot DHCP Offer](../assets/image/week11/SS8_offer.png)
 
 Penjelasan:
 
@@ -102,7 +102,7 @@ Informasi yang diberikan server:
 
 ## 6. DHCP Request
 
-![Screenshot DHCP Request](../assets/week11/SS9_request.png)
+![Screenshot DHCP Request](../assets/image/week11/SS9_request.png)
 
 Penjelasan:
 
@@ -117,7 +117,7 @@ Fungsi:
 
 ## 7. DHCP ACK
 
-![Screenshot DHCP ACK](../assets/week11/SS10_ack.png)
+![Screenshot DHCP ACK](../assets/image/week11/SS10_ack.png)
 
 Penjelasan:
 
